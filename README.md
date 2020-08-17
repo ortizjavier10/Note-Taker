@@ -20,6 +20,7 @@ Click the new notes button on the top right, give the note a title and descripti
 ## Sample
 Here is a sample screenshot:
 <img src="./src/img1.PNG">
+<img src="./src/img2.PNG">
 
 Heroku Website:
 https://fast-caverns-74664.herokuapp.com/
